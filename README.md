@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
     <h1>Passaporte!</h1>
 Automation bot for attempting to catch the highly coveted appointment at Portugal's Embassy in Tel Aviv.
 </div>
