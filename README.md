@@ -33,3 +33,5 @@ SECOND_PERSON_DOB='01-01-1900'
 3. Run
 
    `$ node check.js`
+
+After running, you should get to the last stage where it says either pick an appointment date or that there are no available appointments at the moment.
